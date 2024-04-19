@@ -1,0 +1,11 @@
+{
+    "main-url":"https://dev.profteam.su/",
+    "login_url":"https://dev.profteam.su/login",
+    "login":"testerStudent",
+    "login_admin":"testerAdmin",
+    "testerEmployer":"testerEmployer",
+    "testerInstitution":"testerInstitution",
+    "password":"Password1",
+    "email":"zhenyaqwe@gmail.com",
+    "vacancies_url":"https://dev.profteam.su/vacancies"
+}
